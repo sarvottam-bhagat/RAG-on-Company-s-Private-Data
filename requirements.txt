@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+unstructured
+unstructured[pdf]
+langchain-google-genai
+google-generativeai
+groq
+python-dotenv
+streamlit
